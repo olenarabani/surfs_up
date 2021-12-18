@@ -16,4 +16,5 @@ December has just 1,517 observation. The average, minimum, and maximum temperatu
 
 ## Summary: 
 Our analysis shows that the weather is approximately stable throughout the year. It is hot enough most of the time. This means that this location is good for opening such a business as a surf shop.
+
 But for a more accurate analysis, it would be necessary to make another request for the most active stations to track more deeply the weather conditions in this location.
